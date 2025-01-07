@@ -1,0 +1,17 @@
+NO ./textures/north.png
+SO       ./textures/south.png
+
+
+WE ./textures/west.png
+
+EA ./textures/east.png
+F   24, 175, 76
+
+
+E NONE
+
+C   16, 203, 212
+
+111
+1N1
+111

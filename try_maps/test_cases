@@ -1,0 +1,35 @@
+
+1. Try to add an additional character
+    1. In the end of the file
+    2. In the middle of the file
+    3. In the Map
+    4. In other config parts
+
+2. Closeness -- GOOD
+    Try to make map non closed
+
+3. Structure of the elements 
+    1. Try to change the order of the elements in map
+        - put the map not in the end
+        - put somehting below the map
+        - put spaces below the map
+    2. Seprate elements by spaces instead of new lines -- DOES NOT WORK
+    3. Separate elements by new lines in map
+
+4. Try to make colors out of range [0, 255] -- GOOD
+
+5. Improper configuration -- GOOD
+    - Unknown key, -- GOOD
+    - Double keys, -- GOOD
+    - Invalid path -- GOOD
+    - If the filename doesn't end with the .cub extension. -- GOOD
+
+5. Textures should be possible to change -- GOOD
+
+6. Run the program using numerous arguments and random values. -- GOOD
+
+7. Use the top or leaks command in another shell to monitor that the memory use is stable. -- GOOD
+    
+8. The memory used must not increase each time an action is made. -- GOOD
+
+9. Roll either your arm or your face on the keyboard.  -- GOOD

@@ -1,0 +1,14 @@
+
+NO ./textures/bird.png
+SO       ./textures/womanPower.png
+WE ./textures/pig.png      
+EA ./textures/wood.png
+
+F   0, 0, 0 
+C   255, 255, 255
+
+11111
+10001
+10N01
+10001
+11111

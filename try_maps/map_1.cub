@@ -1,0 +1,13 @@
+NO ./textures/north.png
+SO ./textures/south.png
+EA ./textures/sky.png
+WE ./textures/wood.png
+
+F 100,0,255
+C 12,245,63
+
+111111
+100101
+101001
+1100N1
+111111

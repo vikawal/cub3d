@@ -1,0 +1,13 @@
+NO ./textures/bird.png
+SO ./textures/cat.png
+WE ./textures/pig.png
+EA ./textures/wood.png
+
+F   80,99,52
+C   141,181,200
+
+1111111111
+11000N0001
+1100000001
+1100000001
+11111111111

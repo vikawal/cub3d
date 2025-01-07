@@ -1,0 +1,13 @@
+EA ./textures/east.png
+WE ./textures/west.png
+C 225,30,0
+
+1111111
+1000001
+1010001
+1000N01
+1111111
+
+EA ./textures/matrix.png
+WE ./textures/matrix.png
+F 220,100,0
